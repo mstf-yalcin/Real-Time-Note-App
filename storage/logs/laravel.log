@@ -1,0 +1,870 @@
+[2022-05-07 16:57:35] local.ERROR: Undefined array key "editedById" {"view":{"view":"C:\\laravel\
+ote-App\esources\\views\\docs.blade.php","data":{"errors":"<pre class=sf-dump id=sf-dump-314099463 data-indent-pad=\"  \"><span class=sf-dump-note>Illuminate\\Support\\ViewErrorBag</span> {<a class=sf-dump-ref>#433</a><samp data-depth=1 class=sf-dump-expanded>
+  #<span class=sf-dump-protected title=\"Protected property\">bags</span>: []
+</samp>}
+</pre><script>Sfdump(\"sf-dump-314099463\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","docsId":"<pre class=sf-dump id=sf-dump-1149517185 data-indent-pad=\"  \">\"<span class=sf-dump-str title=\"40 characters\">52740de01b80e5d4da32382081c3fd27124fb509</span>\"
+</pre><script>Sfdump(\"sf-dump-1149517185\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","docsData":"<pre class=sf-dump id=sf-dump-2055345818 data-indent-pad=\"  \"><span class=sf-dump-note>array:1</span> [<samp data-depth=1 class=sf-dump-expanded>
+  \"<span class=sf-dump-key>945fd8ecdeb905a5ecaa3c62795f87d20c3f3e24</span>\" => <span class=sf-dump-note>array:5</span> [<samp data-depth=2 class=sf-dump-compact>
+    \"<span class=sf-dump-key>created_at</span>\" => \"<span class=sf-dump-str title=\"27 characters\">2022-05-07T16:55:58.278207Z</span>\"
+    \"<span class=sf-dump-key>data</span>\" => \"<span class=sf-dump-str title=\"6 characters\">&amp;nbsp;</span>\"
+    \"<span class=sf-dump-key>editedById</span>\" => \"<span class=sf-dump-str title=\"58 characters\">Anonymous2022-05-07 16:55:58sOY2ubifa7Cc8zFkHW5wgkzdjUf6kR</span>\"
+    \"<span class=sf-dump-key>editedByName</span>\" => \"<span class=sf-dump-str title=\"9 characters\">Anonymous</span>\"
+    \"<span class=sf-dump-key>pushId</span>\" => \"<span class=sf-dump-str title=\"40 characters\">945fd8ecdeb905a5ecaa3c62795f87d20c3f3e24</span>\"
+  </samp>]
+</samp>]
+</pre><script>Sfdump(\"sf-dump-2055345818\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","lastDocsData":"<pre class=sf-dump id=sf-dump-1356745623 data-indent-pad=\"  \"><span class=sf-dump-note>array:3</span> [<samp data-depth=1 class=sf-dump-expanded>
+  \"<span class=sf-dump-key>created_at</span>\" => \"<span class=sf-dump-str title=\"27 characters\">2022-05-07T16:56:27.604650Z</span>\"
+  \"<span class=sf-dump-key>data</span>\" => \"<span class=sf-dump-str title=\"49 characters\">&lt;p&gt;test deneme tekrar yaz&#305;yorum nem asd&amp;nbsp;&lt;/p&gt;</span>\"
+  \"<span class=sf-dump-key>editedByName</span>\" => \"<span class=sf-dump-str title=\"9 characters\">Anonymous</span>\"
+</samp>]
+</pre><script>Sfdump(\"sf-dump-1356745623\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","perm":"<pre class=sf-dump id=sf-dump-1160406086 data-indent-pad=\"  \"><span class=sf-dump-num>0</span>
+</pre><script>Sfdump(\"sf-dump-1160406086\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","userControl":"<pre class=sf-dump id=sf-dump-1485208545 data-indent-pad=\"  \"><span class=sf-dump-num>1</span>
+</pre><script>Sfdump(\"sf-dump-1485208545\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","title":"<pre class=sf-dump id=sf-dump-1648213005 data-indent-pad=\"  \">\"<span class=sf-dump-str title=\"17 characters\">Untitled Document</span>\"
+</pre><script>Sfdump(\"sf-dump-1648213005\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","sharedUsers":"<pre class=sf-dump id=sf-dump-369041010 data-indent-pad=\"  \"><span class=sf-dump-note>array:1</span> [<samp data-depth=1 class=sf-dump-expanded>
+  <span class=sf-dump-index>0</span> => <span class=sf-dump-note>array:5</span> [<samp data-depth=2 class=sf-dump-compact>
+    \"<span class=sf-dump-key>uid</span>\" => \"<span class=sf-dump-str title=\"6 characters\">Public</span>\"
+    \"<span class=sf-dump-key>name</span>\" => \"<span class=sf-dump-str title=\"6 characters\">Public</span>\"
+    \"<span class=sf-dump-key>email</span>\" => \"<span class=sf-dump-str title=\"6 characters\">Public</span>\"
+    \"<span class=sf-dump-key>pp</span>\" => \"<span class=sf-dump-str title=\"12 characters\">img/user.png</span>\"
+    \"<span class=sf-dump-key>stat</span>\" => \"<span class=sf-dump-str title=\"5 characters\">write</span>\"
+  </samp>]
+</samp>]
+</pre><script>Sfdump(\"sf-dump-369041010\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","sharedUserId":"<pre class=sf-dump id=sf-dump-244207353 data-indent-pad=\"  \"><span class=sf-dump-note>array:1</span> [<samp data-depth=1 class=sf-dump-expanded>
+  <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"6 characters\">public</span>\"
+</samp>]
+</pre><script>Sfdump(\"sf-dump-244207353\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","user":"<pre class=sf-dump id=sf-dump-763063397 data-indent-pad=\"  \"><span class=sf-dump-note>array:4</span> [<samp data-depth=1 class=sf-dump-expanded>
+  \"<span class=sf-dump-key>uid</span>\" => <span class=sf-dump-const>null</span>
+  \"<span class=sf-dump-key>email</span>\" => <span class=sf-dump-const>null</span>
+  \"<span class=sf-dump-key>name</span>\" => <span class=sf-dump-const>null</span>
+  \"<span class=sf-dump-key>pp</span>\" => <span class=sf-dump-const>null</span>
+</samp>]
+</pre><script>Sfdump(\"sf-dump-763063397\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+"}},"exception":"[object] (Spatie\\LaravelIgnition\\Exceptions\\ViewException(code: 0): Undefined array key \"editedById\" at C:\\laravel\
+ote-App\\storage\\framework\\views\\615cc77e153f394a580b44ef1369a52f3521a212.php:281)
+[stacktrace]
+#0 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\HandleExceptions.php(231): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(2, 'Undefined array...', 'C:\\\\laravel\\\
+ote...', 281)
+#1 C:\\laravel\
+ote-App\\storage\\framework\\views\\615cc77e153f394a580b44ef1369a52f3521a212.php(281): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->Illuminate\\Foundation\\Bootstrap\\{closure}(2, 'Undefined array...', 'C:\\\\laravel\\\
+ote...', 281)
+#2 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(107): require('C:\\\\laravel\\\
+ote...')
+#3 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(108): Illuminate\\Filesystem\\Filesystem::Illuminate\\Filesystem\\{closure}()
+#4 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\PhpEngine.php(58): Illuminate\\Filesystem\\Filesystem->getRequire('C:\\\\laravel\\\
+ote...', Array)
+#5 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\CompilerEngine.php(61): Illuminate\\View\\Engines\\PhpEngine->evaluatePath('C:\\\\laravel\\\
+ote...', Array)
+#6 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(139): Illuminate\\View\\Engines\\CompilerEngine->get('C:\\\\laravel\\\
+ote...', Array)
+#7 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(122): Illuminate\\View\\View->getContents()
+#8 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(91): Illuminate\\View\\View->renderContents()
+#9 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Response.php(69): Illuminate\\View\\View->render()
+#10 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Response.php(35): Illuminate\\Http\\Response->setContent(Object(Illuminate\\View\\View))
+#11 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(833): Illuminate\\Http\\Response->__construct(Object(Illuminate\\View\\View), 200, Array)
+#12 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(802): Illuminate\\Routing\\Router::toResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#13 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(725): Illuminate\\Routing\\Router->prepareResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#14 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#15 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#16 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#17 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken.php(78): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#18 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#19 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Middleware\\ShareErrorsFromSession.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#20 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\View\\Middleware\\ShareErrorsFromSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#21 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php(121): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#22 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php(64): Illuminate\\Session\\Middleware\\StartSession->handleStatefulRequest(Object(Illuminate\\Http\\Request), Object(Illuminate\\Session\\Store), Object(Closure))
+#23 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Session\\Middleware\\StartSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#26 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\EncryptCookies.php(67): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#27 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Cookie\\Middleware\\EncryptCookies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(726): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#30 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(703): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#31 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(667): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#32 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(656): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#33 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(167): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#34 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#35 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#36 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#37 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#38 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#39 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#40 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#41 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#42 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#43 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(86): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#44 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#45 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#46 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#47 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#48 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#49 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#50 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(142): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#51 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(111): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#52 C:\\laravel\
+ote-App\\public\\index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#53 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\esources\\server.php(16): require_once('C:\\\\laravel\\\
+ote...')
+#54 {main}
+
+[previous exception] [object] (ErrorException(code: 0): Undefined array key \"editedById\" at C:\\laravel\
+ote-App\\storage\\framework\\views\\615cc77e153f394a580b44ef1369a52f3521a212.php:281)
+[stacktrace]
+#0 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\HandleExceptions.php(231): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(2, 'Undefined array...', 'C:\\\\laravel\\\
+ote...', 281)
+#1 C:\\laravel\
+ote-App\\storage\\framework\\views\\615cc77e153f394a580b44ef1369a52f3521a212.php(281): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->Illuminate\\Foundation\\Bootstrap\\{closure}(2, 'Undefined array...', 'C:\\\\laravel\\\
+ote...', 281)
+#2 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(107): require('C:\\\\laravel\\\
+ote...')
+#3 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(108): Illuminate\\Filesystem\\Filesystem::Illuminate\\Filesystem\\{closure}()
+#4 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\PhpEngine.php(58): Illuminate\\Filesystem\\Filesystem->getRequire('C:\\\\laravel\\\
+ote...', Array)
+#5 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\CompilerEngine.php(61): Illuminate\\View\\Engines\\PhpEngine->evaluatePath('C:\\\\laravel\\\
+ote...', Array)
+#6 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(139): Illuminate\\View\\Engines\\CompilerEngine->get('C:\\\\laravel\\\
+ote...', Array)
+#7 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(122): Illuminate\\View\\View->getContents()
+#8 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(91): Illuminate\\View\\View->renderContents()
+#9 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Response.php(69): Illuminate\\View\\View->render()
+#10 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Response.php(35): Illuminate\\Http\\Response->setContent(Object(Illuminate\\View\\View))
+#11 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(833): Illuminate\\Http\\Response->__construct(Object(Illuminate\\View\\View), 200, Array)
+#12 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(802): Illuminate\\Routing\\Router::toResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#13 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(725): Illuminate\\Routing\\Router->prepareResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#14 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#15 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#16 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#17 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken.php(78): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#18 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#19 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Middleware\\ShareErrorsFromSession.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#20 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\View\\Middleware\\ShareErrorsFromSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#21 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php(121): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#22 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php(64): Illuminate\\Session\\Middleware\\StartSession->handleStatefulRequest(Object(Illuminate\\Http\\Request), Object(Illuminate\\Session\\Store), Object(Closure))
+#23 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Session\\Middleware\\StartSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#26 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\EncryptCookies.php(67): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#27 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Cookie\\Middleware\\EncryptCookies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(726): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#30 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(703): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#31 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(667): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#32 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(656): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#33 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(167): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#34 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#35 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#36 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#37 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#38 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#39 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#40 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#41 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#42 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#43 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(86): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#44 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#45 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#46 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#47 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#48 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#49 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#50 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(142): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#51 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(111): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#52 C:\\laravel\
+ote-App\\public\\index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#53 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\esources\\server.php(16): require_once('C:\\\\laravel\\\
+ote...')
+#54 {main}
+"} 
+[2022-05-07 16:57:37] local.ERROR: Undefined array key "editedById" {"view":{"view":"C:\\laravel\
+ote-App\esources\\views\\docs.blade.php","data":{"errors":"<pre class=sf-dump id=sf-dump-289445836 data-indent-pad=\"  \"><span class=sf-dump-note>Illuminate\\Support\\ViewErrorBag</span> {<a class=sf-dump-ref>#432</a><samp data-depth=1 class=sf-dump-expanded>
+  #<span class=sf-dump-protected title=\"Protected property\">bags</span>: []
+</samp>}
+</pre><script>Sfdump(\"sf-dump-289445836\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","docsId":"<pre class=sf-dump id=sf-dump-921194054 data-indent-pad=\"  \">\"<span class=sf-dump-str title=\"40 characters\">52740de01b80e5d4da32382081c3fd27124fb509</span>\"
+</pre><script>Sfdump(\"sf-dump-921194054\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","docsData":"<pre class=sf-dump id=sf-dump-456402199 data-indent-pad=\"  \"><span class=sf-dump-note>array:1</span> [<samp data-depth=1 class=sf-dump-expanded>
+  \"<span class=sf-dump-key>945fd8ecdeb905a5ecaa3c62795f87d20c3f3e24</span>\" => <span class=sf-dump-note>array:5</span> [<samp data-depth=2 class=sf-dump-compact>
+    \"<span class=sf-dump-key>created_at</span>\" => \"<span class=sf-dump-str title=\"27 characters\">2022-05-07T16:55:58.278207Z</span>\"
+    \"<span class=sf-dump-key>data</span>\" => \"<span class=sf-dump-str title=\"6 characters\">&amp;nbsp;</span>\"
+    \"<span class=sf-dump-key>editedById</span>\" => \"<span class=sf-dump-str title=\"58 characters\">Anonymous2022-05-07 16:55:58sOY2ubifa7Cc8zFkHW5wgkzdjUf6kR</span>\"
+    \"<span class=sf-dump-key>editedByName</span>\" => \"<span class=sf-dump-str title=\"9 characters\">Anonymous</span>\"
+    \"<span class=sf-dump-key>pushId</span>\" => \"<span class=sf-dump-str title=\"40 characters\">945fd8ecdeb905a5ecaa3c62795f87d20c3f3e24</span>\"
+  </samp>]
+</samp>]
+</pre><script>Sfdump(\"sf-dump-456402199\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","lastDocsData":"<pre class=sf-dump id=sf-dump-910186773 data-indent-pad=\"  \"><span class=sf-dump-note>array:3</span> [<samp data-depth=1 class=sf-dump-expanded>
+  \"<span class=sf-dump-key>created_at</span>\" => \"<span class=sf-dump-str title=\"27 characters\">2022-05-07T16:56:27.604650Z</span>\"
+  \"<span class=sf-dump-key>data</span>\" => \"<span class=sf-dump-str title=\"49 characters\">&lt;p&gt;test deneme tekrar yaz&#305;yorum nem asd&amp;nbsp;&lt;/p&gt;</span>\"
+  \"<span class=sf-dump-key>editedByName</span>\" => \"<span class=sf-dump-str title=\"9 characters\">Anonymous</span>\"
+</samp>]
+</pre><script>Sfdump(\"sf-dump-910186773\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","perm":"<pre class=sf-dump id=sf-dump-55413031 data-indent-pad=\"  \"><span class=sf-dump-num>0</span>
+</pre><script>Sfdump(\"sf-dump-55413031\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","userControl":"<pre class=sf-dump id=sf-dump-1017883887 data-indent-pad=\"  \"><span class=sf-dump-num>1</span>
+</pre><script>Sfdump(\"sf-dump-1017883887\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","title":"<pre class=sf-dump id=sf-dump-2066069799 data-indent-pad=\"  \">\"<span class=sf-dump-str title=\"17 characters\">Untitled Document</span>\"
+</pre><script>Sfdump(\"sf-dump-2066069799\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","sharedUsers":"<pre class=sf-dump id=sf-dump-1934406202 data-indent-pad=\"  \"><span class=sf-dump-note>array:1</span> [<samp data-depth=1 class=sf-dump-expanded>
+  <span class=sf-dump-index>0</span> => <span class=sf-dump-note>array:5</span> [<samp data-depth=2 class=sf-dump-compact>
+    \"<span class=sf-dump-key>uid</span>\" => \"<span class=sf-dump-str title=\"6 characters\">Public</span>\"
+    \"<span class=sf-dump-key>name</span>\" => \"<span class=sf-dump-str title=\"6 characters\">Public</span>\"
+    \"<span class=sf-dump-key>email</span>\" => \"<span class=sf-dump-str title=\"6 characters\">Public</span>\"
+    \"<span class=sf-dump-key>pp</span>\" => \"<span class=sf-dump-str title=\"12 characters\">img/user.png</span>\"
+    \"<span class=sf-dump-key>stat</span>\" => \"<span class=sf-dump-str title=\"5 characters\">write</span>\"
+  </samp>]
+</samp>]
+</pre><script>Sfdump(\"sf-dump-1934406202\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","sharedUserId":"<pre class=sf-dump id=sf-dump-698824120 data-indent-pad=\"  \"><span class=sf-dump-note>array:1</span> [<samp data-depth=1 class=sf-dump-expanded>
+  <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"6 characters\">public</span>\"
+</samp>]
+</pre><script>Sfdump(\"sf-dump-698824120\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","user":"<pre class=sf-dump id=sf-dump-1551256868 data-indent-pad=\"  \"><span class=sf-dump-note>array:4</span> [<samp data-depth=1 class=sf-dump-expanded>
+  \"<span class=sf-dump-key>uid</span>\" => <span class=sf-dump-const>null</span>
+  \"<span class=sf-dump-key>email</span>\" => <span class=sf-dump-const>null</span>
+  \"<span class=sf-dump-key>name</span>\" => <span class=sf-dump-const>null</span>
+  \"<span class=sf-dump-key>pp</span>\" => <span class=sf-dump-const>null</span>
+</samp>]
+</pre><script>Sfdump(\"sf-dump-1551256868\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+"}},"exception":"[object] (Spatie\\LaravelIgnition\\Exceptions\\ViewException(code: 0): Undefined array key \"editedById\" at C:\\laravel\
+ote-App\\storage\\framework\\views\\615cc77e153f394a580b44ef1369a52f3521a212.php:281)
+[stacktrace]
+#0 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\HandleExceptions.php(231): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(2, 'Undefined array...', 'C:\\\\laravel\\\
+ote...', 281)
+#1 C:\\laravel\
+ote-App\\storage\\framework\\views\\615cc77e153f394a580b44ef1369a52f3521a212.php(281): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->Illuminate\\Foundation\\Bootstrap\\{closure}(2, 'Undefined array...', 'C:\\\\laravel\\\
+ote...', 281)
+#2 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(107): require('C:\\\\laravel\\\
+ote...')
+#3 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(108): Illuminate\\Filesystem\\Filesystem::Illuminate\\Filesystem\\{closure}()
+#4 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\PhpEngine.php(58): Illuminate\\Filesystem\\Filesystem->getRequire('C:\\\\laravel\\\
+ote...', Array)
+#5 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\CompilerEngine.php(61): Illuminate\\View\\Engines\\PhpEngine->evaluatePath('C:\\\\laravel\\\
+ote...', Array)
+#6 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(139): Illuminate\\View\\Engines\\CompilerEngine->get('C:\\\\laravel\\\
+ote...', Array)
+#7 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(122): Illuminate\\View\\View->getContents()
+#8 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(91): Illuminate\\View\\View->renderContents()
+#9 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Response.php(69): Illuminate\\View\\View->render()
+#10 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Response.php(35): Illuminate\\Http\\Response->setContent(Object(Illuminate\\View\\View))
+#11 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(833): Illuminate\\Http\\Response->__construct(Object(Illuminate\\View\\View), 200, Array)
+#12 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(802): Illuminate\\Routing\\Router::toResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#13 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(725): Illuminate\\Routing\\Router->prepareResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#14 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#15 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#16 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#17 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken.php(78): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#18 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#19 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Middleware\\ShareErrorsFromSession.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#20 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\View\\Middleware\\ShareErrorsFromSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#21 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php(121): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#22 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php(64): Illuminate\\Session\\Middleware\\StartSession->handleStatefulRequest(Object(Illuminate\\Http\\Request), Object(Illuminate\\Session\\Store), Object(Closure))
+#23 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Session\\Middleware\\StartSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#26 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\EncryptCookies.php(67): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#27 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Cookie\\Middleware\\EncryptCookies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(726): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#30 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(703): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#31 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(667): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#32 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(656): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#33 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(167): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#34 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#35 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#36 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#37 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#38 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#39 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#40 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#41 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#42 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#43 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(86): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#44 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#45 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#46 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#47 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#48 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#49 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#50 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(142): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#51 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(111): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#52 C:\\laravel\
+ote-App\\public\\index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#53 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\esources\\server.php(16): require_once('C:\\\\laravel\\\
+ote...')
+#54 {main}
+
+[previous exception] [object] (ErrorException(code: 0): Undefined array key \"editedById\" at C:\\laravel\
+ote-App\\storage\\framework\\views\\615cc77e153f394a580b44ef1369a52f3521a212.php:281)
+[stacktrace]
+#0 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\HandleExceptions.php(231): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(2, 'Undefined array...', 'C:\\\\laravel\\\
+ote...', 281)
+#1 C:\\laravel\
+ote-App\\storage\\framework\\views\\615cc77e153f394a580b44ef1369a52f3521a212.php(281): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->Illuminate\\Foundation\\Bootstrap\\{closure}(2, 'Undefined array...', 'C:\\\\laravel\\\
+ote...', 281)
+#2 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(107): require('C:\\\\laravel\\\
+ote...')
+#3 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(108): Illuminate\\Filesystem\\Filesystem::Illuminate\\Filesystem\\{closure}()
+#4 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\PhpEngine.php(58): Illuminate\\Filesystem\\Filesystem->getRequire('C:\\\\laravel\\\
+ote...', Array)
+#5 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\CompilerEngine.php(61): Illuminate\\View\\Engines\\PhpEngine->evaluatePath('C:\\\\laravel\\\
+ote...', Array)
+#6 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(139): Illuminate\\View\\Engines\\CompilerEngine->get('C:\\\\laravel\\\
+ote...', Array)
+#7 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(122): Illuminate\\View\\View->getContents()
+#8 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(91): Illuminate\\View\\View->renderContents()
+#9 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Response.php(69): Illuminate\\View\\View->render()
+#10 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Response.php(35): Illuminate\\Http\\Response->setContent(Object(Illuminate\\View\\View))
+#11 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(833): Illuminate\\Http\\Response->__construct(Object(Illuminate\\View\\View), 200, Array)
+#12 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(802): Illuminate\\Routing\\Router::toResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#13 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(725): Illuminate\\Routing\\Router->prepareResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#14 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#15 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#16 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#17 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken.php(78): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#18 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#19 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Middleware\\ShareErrorsFromSession.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#20 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\View\\Middleware\\ShareErrorsFromSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#21 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php(121): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#22 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php(64): Illuminate\\Session\\Middleware\\StartSession->handleStatefulRequest(Object(Illuminate\\Http\\Request), Object(Illuminate\\Session\\Store), Object(Closure))
+#23 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Session\\Middleware\\StartSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#26 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\EncryptCookies.php(67): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#27 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Cookie\\Middleware\\EncryptCookies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(726): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#30 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(703): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#31 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(667): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#32 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(656): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#33 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(167): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#34 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#35 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#36 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#37 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#38 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#39 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#40 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#41 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#42 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#43 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(86): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#44 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#45 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#46 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#47 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#48 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#49 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#50 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(142): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#51 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(111): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#52 C:\\laravel\
+ote-App\\public\\index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#53 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\esources\\server.php(16): require_once('C:\\\\laravel\\\
+ote...')
+#54 {main}
+"} 
+[2022-05-07 16:57:38] local.ERROR: Undefined array key "editedById" {"view":{"view":"C:\\laravel\
+ote-App\esources\\views\\docs.blade.php","data":{"errors":"<pre class=sf-dump id=sf-dump-23932934 data-indent-pad=\"  \"><span class=sf-dump-note>Illuminate\\Support\\ViewErrorBag</span> {<a class=sf-dump-ref>#432</a><samp data-depth=1 class=sf-dump-expanded>
+  #<span class=sf-dump-protected title=\"Protected property\">bags</span>: []
+</samp>}
+</pre><script>Sfdump(\"sf-dump-23932934\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","docsId":"<pre class=sf-dump id=sf-dump-1767447527 data-indent-pad=\"  \">\"<span class=sf-dump-str title=\"40 characters\">52740de01b80e5d4da32382081c3fd27124fb509</span>\"
+</pre><script>Sfdump(\"sf-dump-1767447527\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","docsData":"<pre class=sf-dump id=sf-dump-1926362797 data-indent-pad=\"  \"><span class=sf-dump-note>array:1</span> [<samp data-depth=1 class=sf-dump-expanded>
+  \"<span class=sf-dump-key>945fd8ecdeb905a5ecaa3c62795f87d20c3f3e24</span>\" => <span class=sf-dump-note>array:5</span> [<samp data-depth=2 class=sf-dump-compact>
+    \"<span class=sf-dump-key>created_at</span>\" => \"<span class=sf-dump-str title=\"27 characters\">2022-05-07T16:55:58.278207Z</span>\"
+    \"<span class=sf-dump-key>data</span>\" => \"<span class=sf-dump-str title=\"6 characters\">&amp;nbsp;</span>\"
+    \"<span class=sf-dump-key>editedById</span>\" => \"<span class=sf-dump-str title=\"58 characters\">Anonymous2022-05-07 16:55:58sOY2ubifa7Cc8zFkHW5wgkzdjUf6kR</span>\"
+    \"<span class=sf-dump-key>editedByName</span>\" => \"<span class=sf-dump-str title=\"9 characters\">Anonymous</span>\"
+    \"<span class=sf-dump-key>pushId</span>\" => \"<span class=sf-dump-str title=\"40 characters\">945fd8ecdeb905a5ecaa3c62795f87d20c3f3e24</span>\"
+  </samp>]
+</samp>]
+</pre><script>Sfdump(\"sf-dump-1926362797\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","lastDocsData":"<pre class=sf-dump id=sf-dump-1831558326 data-indent-pad=\"  \"><span class=sf-dump-note>array:3</span> [<samp data-depth=1 class=sf-dump-expanded>
+  \"<span class=sf-dump-key>created_at</span>\" => \"<span class=sf-dump-str title=\"27 characters\">2022-05-07T16:56:27.604650Z</span>\"
+  \"<span class=sf-dump-key>data</span>\" => \"<span class=sf-dump-str title=\"49 characters\">&lt;p&gt;test deneme tekrar yaz&#305;yorum nem asd&amp;nbsp;&lt;/p&gt;</span>\"
+  \"<span class=sf-dump-key>editedByName</span>\" => \"<span class=sf-dump-str title=\"9 characters\">Anonymous</span>\"
+</samp>]
+</pre><script>Sfdump(\"sf-dump-1831558326\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","perm":"<pre class=sf-dump id=sf-dump-213869102 data-indent-pad=\"  \"><span class=sf-dump-num>0</span>
+</pre><script>Sfdump(\"sf-dump-213869102\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","userControl":"<pre class=sf-dump id=sf-dump-951116281 data-indent-pad=\"  \"><span class=sf-dump-num>1</span>
+</pre><script>Sfdump(\"sf-dump-951116281\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","title":"<pre class=sf-dump id=sf-dump-789141489 data-indent-pad=\"  \">\"<span class=sf-dump-str title=\"17 characters\">Untitled Document</span>\"
+</pre><script>Sfdump(\"sf-dump-789141489\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","sharedUsers":"<pre class=sf-dump id=sf-dump-537931376 data-indent-pad=\"  \"><span class=sf-dump-note>array:1</span> [<samp data-depth=1 class=sf-dump-expanded>
+  <span class=sf-dump-index>0</span> => <span class=sf-dump-note>array:5</span> [<samp data-depth=2 class=sf-dump-compact>
+    \"<span class=sf-dump-key>uid</span>\" => \"<span class=sf-dump-str title=\"6 characters\">Public</span>\"
+    \"<span class=sf-dump-key>name</span>\" => \"<span class=sf-dump-str title=\"6 characters\">Public</span>\"
+    \"<span class=sf-dump-key>email</span>\" => \"<span class=sf-dump-str title=\"6 characters\">Public</span>\"
+    \"<span class=sf-dump-key>pp</span>\" => \"<span class=sf-dump-str title=\"12 characters\">img/user.png</span>\"
+    \"<span class=sf-dump-key>stat</span>\" => \"<span class=sf-dump-str title=\"5 characters\">write</span>\"
+  </samp>]
+</samp>]
+</pre><script>Sfdump(\"sf-dump-537931376\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","sharedUserId":"<pre class=sf-dump id=sf-dump-489235699 data-indent-pad=\"  \"><span class=sf-dump-note>array:1</span> [<samp data-depth=1 class=sf-dump-expanded>
+  <span class=sf-dump-index>0</span> => \"<span class=sf-dump-str title=\"6 characters\">public</span>\"
+</samp>]
+</pre><script>Sfdump(\"sf-dump-489235699\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","user":"<pre class=sf-dump id=sf-dump-2059320461 data-indent-pad=\"  \"><span class=sf-dump-note>array:4</span> [<samp data-depth=1 class=sf-dump-expanded>
+  \"<span class=sf-dump-key>uid</span>\" => <span class=sf-dump-const>null</span>
+  \"<span class=sf-dump-key>email</span>\" => <span class=sf-dump-const>null</span>
+  \"<span class=sf-dump-key>name</span>\" => <span class=sf-dump-const>null</span>
+  \"<span class=sf-dump-key>pp</span>\" => <span class=sf-dump-const>null</span>
+</samp>]
+</pre><script>Sfdump(\"sf-dump-2059320461\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+"}},"exception":"[object] (Spatie\\LaravelIgnition\\Exceptions\\ViewException(code: 0): Undefined array key \"editedById\" at C:\\laravel\
+ote-App\\storage\\framework\\views\\615cc77e153f394a580b44ef1369a52f3521a212.php:281)
+[stacktrace]
+#0 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\HandleExceptions.php(231): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(2, 'Undefined array...', 'C:\\\\laravel\\\
+ote...', 281)
+#1 C:\\laravel\
+ote-App\\storage\\framework\\views\\615cc77e153f394a580b44ef1369a52f3521a212.php(281): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->Illuminate\\Foundation\\Bootstrap\\{closure}(2, 'Undefined array...', 'C:\\\\laravel\\\
+ote...', 281)
+#2 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(107): require('C:\\\\laravel\\\
+ote...')
+#3 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(108): Illuminate\\Filesystem\\Filesystem::Illuminate\\Filesystem\\{closure}()
+#4 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\PhpEngine.php(58): Illuminate\\Filesystem\\Filesystem->getRequire('C:\\\\laravel\\\
+ote...', Array)
+#5 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\CompilerEngine.php(61): Illuminate\\View\\Engines\\PhpEngine->evaluatePath('C:\\\\laravel\\\
+ote...', Array)
+#6 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(139): Illuminate\\View\\Engines\\CompilerEngine->get('C:\\\\laravel\\\
+ote...', Array)
+#7 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(122): Illuminate\\View\\View->getContents()
+#8 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(91): Illuminate\\View\\View->renderContents()
+#9 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Response.php(69): Illuminate\\View\\View->render()
+#10 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Response.php(35): Illuminate\\Http\\Response->setContent(Object(Illuminate\\View\\View))
+#11 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(833): Illuminate\\Http\\Response->__construct(Object(Illuminate\\View\\View), 200, Array)
+#12 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(802): Illuminate\\Routing\\Router::toResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#13 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(725): Illuminate\\Routing\\Router->prepareResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#14 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#15 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#16 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#17 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken.php(78): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#18 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#19 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Middleware\\ShareErrorsFromSession.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#20 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\View\\Middleware\\ShareErrorsFromSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#21 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php(121): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#22 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php(64): Illuminate\\Session\\Middleware\\StartSession->handleStatefulRequest(Object(Illuminate\\Http\\Request), Object(Illuminate\\Session\\Store), Object(Closure))
+#23 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Session\\Middleware\\StartSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#26 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\EncryptCookies.php(67): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#27 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Cookie\\Middleware\\EncryptCookies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(726): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#30 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(703): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#31 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(667): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#32 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(656): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#33 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(167): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#34 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#35 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#36 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#37 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#38 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#39 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#40 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#41 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#42 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#43 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(86): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#44 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#45 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#46 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#47 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#48 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#49 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#50 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(142): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#51 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(111): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#52 C:\\laravel\
+ote-App\\public\\index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#53 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\esources\\server.php(16): require_once('C:\\\\laravel\\\
+ote...')
+#54 {main}
+
+[previous exception] [object] (ErrorException(code: 0): Undefined array key \"editedById\" at C:\\laravel\
+ote-App\\storage\\framework\\views\\615cc77e153f394a580b44ef1369a52f3521a212.php:281)
+[stacktrace]
+#0 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\HandleExceptions.php(231): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(2, 'Undefined array...', 'C:\\\\laravel\\\
+ote...', 281)
+#1 C:\\laravel\
+ote-App\\storage\\framework\\views\\615cc77e153f394a580b44ef1369a52f3521a212.php(281): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->Illuminate\\Foundation\\Bootstrap\\{closure}(2, 'Undefined array...', 'C:\\\\laravel\\\
+ote...', 281)
+#2 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(107): require('C:\\\\laravel\\\
+ote...')
+#3 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(108): Illuminate\\Filesystem\\Filesystem::Illuminate\\Filesystem\\{closure}()
+#4 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\PhpEngine.php(58): Illuminate\\Filesystem\\Filesystem->getRequire('C:\\\\laravel\\\
+ote...', Array)
+#5 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\CompilerEngine.php(61): Illuminate\\View\\Engines\\PhpEngine->evaluatePath('C:\\\\laravel\\\
+ote...', Array)
+#6 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(139): Illuminate\\View\\Engines\\CompilerEngine->get('C:\\\\laravel\\\
+ote...', Array)
+#7 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(122): Illuminate\\View\\View->getContents()
+#8 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(91): Illuminate\\View\\View->renderContents()
+#9 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Response.php(69): Illuminate\\View\\View->render()
+#10 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Response.php(35): Illuminate\\Http\\Response->setContent(Object(Illuminate\\View\\View))
+#11 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(833): Illuminate\\Http\\Response->__construct(Object(Illuminate\\View\\View), 200, Array)
+#12 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(802): Illuminate\\Routing\\Router::toResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#13 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(725): Illuminate\\Routing\\Router->prepareResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#14 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#15 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#16 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#17 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken.php(78): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#18 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#19 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Middleware\\ShareErrorsFromSession.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#20 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\View\\Middleware\\ShareErrorsFromSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#21 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php(121): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#22 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php(64): Illuminate\\Session\\Middleware\\StartSession->handleStatefulRequest(Object(Illuminate\\Http\\Request), Object(Illuminate\\Session\\Store), Object(Closure))
+#23 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Session\\Middleware\\StartSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#26 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\EncryptCookies.php(67): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#27 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Cookie\\Middleware\\EncryptCookies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(726): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#30 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(703): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#31 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(667): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#32 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(656): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#33 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(167): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#34 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#35 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#36 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#37 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#38 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#39 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#40 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#41 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#42 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#43 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(86): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#44 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#45 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#46 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#47 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#48 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#49 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#50 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(142): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#51 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(111): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#52 C:\\laravel\
+ote-App\\public\\index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#53 C:\\laravel\
+ote-App\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\esources\\server.php(16): require_once('C:\\\\laravel\\\
+ote...')
+#54 {main}
+"} 
