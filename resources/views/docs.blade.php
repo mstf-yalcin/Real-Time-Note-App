@@ -135,7 +135,7 @@
            {{--End History Div  --}}
 
       {{-- logo menu user  --}}
-      <div id="menuDiv" style="display:flex;justify-content:space-between;align-items:center;width:100%;height:80px;">
+      <div id="menuDiv" style="display:flex;justify-content:space-between;align-items:center;width:100%;height:80px;overflow:scroll">
 
         {{-- logo-menu --}}
         <div   style="display:flex;align-items:center;height:100%;padding:5px">
