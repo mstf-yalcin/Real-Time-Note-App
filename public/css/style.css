@@ -63,6 +63,13 @@
     flex-wrap:wrap;
 }
 
+@media only screen and (max-width: 650px) {
+    .newDocument {
+        overflow-x: scroll;
+        overflow-y:hidden;
+    }
+  }
+
 .newDocContainer
 {
     width: 65%;
