@@ -645,6 +645,12 @@ pointer-events: all;
   padding-top: 100%;
   display: block;
 }
+@media only screen and (max-width: 650px) {
+   #menuDiv {
+        overflow-x: scroll;
+        overflow-y:hidden;
+    }
+  }
 
  /* .ck-content code {
     background-color: hsla(0, 0%, 78%, 0.3);
